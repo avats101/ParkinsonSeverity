@@ -2,7 +2,7 @@
 Detecting Severity levels of the Parkinson Disease and classfying them based on the datapoint
 
 ## Dataset
-UCI ML Repository: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
+UCI ML Repository: [here](https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)
 
 ## Work Flow
 ![Flowchart](/img/flow.jpg "Project Logic")
