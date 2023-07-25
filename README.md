@@ -7,9 +7,9 @@ UCI ML Repository: [here](https://archive.ics.uci.edu/dataset/189/parkinsons+tel
 ## Work Flow
 <center>
 ![Flowchart](/img/flow.jpg "Project Logic")
-Project Logic
+
 ![Neural Network](/img/nn.jpg "Neural Network")
-Neural Network
+
 </center>
 ## Publication
 [here](https://doi.org/10.1007/978-981-99-1624-5_63)
