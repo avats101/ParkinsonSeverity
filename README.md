@@ -6,6 +6,7 @@ UCI ML Repository: [here](https://archive.ics.uci.edu/dataset/189/parkinsons+tel
 
 ## Work Flow
 <center>
+  
 ### Project Logic  
 
 ![Flowchart](/img/flow.jpg "Project Logic")
